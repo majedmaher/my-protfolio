@@ -7,25 +7,25 @@ const services = [
   {
     num:'01',
     title: 'Back-End Development',
-    description: 'With over 3 years of experience in back-end development using Laravel, I have built complete platforms, payment integrations, admin dashboards, and scalable system architectures. I focus on writing clean, maintainable code, implementing secure REST APIs, and delivering reliable, high-performance solutions.',
+    description: 'With over 3 years of experience in back-end development using Laravel, I have built complete platforms, payment workflows, admin dashboards, and scalable system architectures. I focus on writing clean, secure, and maintainable code, with well-structured REST APIs and reliable performance.',
     href:''
   },
   {
     num:'02',
     title: 'Front-End Development',
-    description: 'I have 3 years of experience in front-end development, in addition to working as a Full-Stack Developer. I create responsive and user-friendly interfaces using HTML, CSS, JavaScript, and jQuery, and I’ve recently started developing modern applications with Next.js. My priority is delivering smooth user experiences with clean and consistent UI.',
+    description: 'I have 3 years of experience in front-end development, in addition to working as a Full-Stack Developer. I build responsive and interactive user interfaces using HTML, CSS, JavaScript, and jQuery, and I’ve recently been working with Next.js to develop modern, high-performance web applications.',
     href:''
   },
   {
     num:'03',
-    title: 'Graphic Design',
-    description: 'I have solid foundational skills in Adobe Photoshop, allowing me to design various social media posts and visual elements. I aim for simple, clean, and visually balanced designs that effectively communicate the intended message.',
+    title: 'Graphic Design & Video Editing',
+    description: 'I have solid foundational skills in Adobe Photoshop and Adobe Premiere, which allow me to design visually appealing social media posts and edit short-form videos such as reels and promotional content. My work focuses on clean visuals, good storytelling, and delivering content that fits the brand identity.',
     href:''
   },
   {
     num:'04',
-    title: 'Motion Graphics',
-    description: 'I have basic experience using Adobe Premiere to create short-form content for social media, including reels and promotional videos. I focus on delivering visually appealing edits with clear storytelling and engaging pacing.',
+    title: 'Mobile Development (Flutter)',
+    description: 'I’m currently at a beginner level in Flutter development and have successfully built my first mobile application. I continue to learn and expand my skills in building cross-platform apps with clean UI and smooth performance.',
     href:''
   },
 ]
