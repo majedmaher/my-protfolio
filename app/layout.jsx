@@ -11,12 +11,12 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata = {
-  title: "Majed Maher | Software Developer Portfolio",
+  title: "Majed Ziara | Software Developer Portfolio",
   description:
-    "Portfolio of Majed Maher, a software developer specializing in back-end, front-end, full-stack development, mobile apps, and creative digital solutions.",
+    "Portfolio of Majed Ziara, a software developer specializing in back-end, front-end, full-stack development, mobile apps, and creative digital solutions.",
   keywords: [
-    "Majed Maher",
-    "Majed Maher Portfolio",
+    "Majed Ziara",
+    "Majed Ziara Portfolio",
     "Software Developer",
     "Full-Stack Developer",
     "Web Developer",
