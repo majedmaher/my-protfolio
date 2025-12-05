@@ -6,6 +6,7 @@ import { Input } from "@/components/ui/input"
 import { Select, SelectContent, SelectGroup, SelectItem, SelectLabel, SelectTrigger, SelectValue } from "@/components/ui/select"
 import { Textarea } from "@/components/ui/textarea"
 import { Button } from "@/components/ui/button"
+import ContactForm from "@/components/ContactForm"
 
 const info = [
   {
@@ -31,7 +32,8 @@ function Contact() {
       <div className="container mx-auto">
         <div className="flex flex-col lg:flex-row gap-[30px]">
           {/* form */}
-          <div className="order-2 lg:order-1 lg:w-[54%]">
+          <ContactForm />
+          {/* <div className="order-2 lg:order-1 lg:w-[54%]">
             <form className="flex flex-col gap-6 p-10 bg-[#27272c] rounded-xl">
               <h3 className="text-4xl text-accent">Let's work together</h3>
               <p className="text-white/60">
@@ -63,7 +65,7 @@ function Contact() {
 
               <Button size='md' className='max-w-40'>Send Message</Button> 
             </form>
-          </div>
+          </div> */}
           {/* info */}
           <div className="flex-1 flex items-center lg:justify-end order-1 lg:order-2 mb-8 lg:mb-0">
             <ul className="flex flex-col gap-10">
